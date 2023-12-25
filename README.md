@@ -1,3 +1,3 @@
 # Projects
-##Graduation Project
-##Colon Cancer Detiction Using Microarray Data Analysis 
+Graduation Project
+Colon Cancer Detiction Using Microarray Data Analysis 
